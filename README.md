@@ -22,14 +22,10 @@ A premium messenger ChatBot ☠️
 src="https://drive.google.com/uc?export=view&id=10FPC1ljAAUo68vbjlmd6dxOu875pPxCT"
 alt="profile">
 
-<img
-src="https://drive.google.com/uc?export=view&id=1oXJ7ElC9nmETQ3489LzVpn2sB4pEI51-"
-alt="profile">
-
 # It's messenger Artificial intelligence Chat Bot 
 
 
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<img src="" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
 
 <p align="center">
