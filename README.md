@@ -10,31 +10,36 @@ A premium messenger ChatBot ☠️
 #### Join us in [Messenger Group](https://m.me/j/AbbsaI-MMs17DDds/)🦆
 ###### If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
 
-- If you encounter any issues or have questions related to this project, please don't hesitate to reach out to us on messenger. we're here to assist you!
+# 🦆 WELCOME 🦆
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# it's Render Bot run
+# uptime robot
+<img
+src="https://drive.google.com/uc?export=view&id=10FPC1ljAAUo68vbjlmd6dxOu875pPxCT"
+alt="profile">
+
+<img
+src="https://drive.google.com/uc?export=view&id=1oXJ7ElC9nmETQ3489LzVpn2sB4pEI51-"
+alt="profile">
+
+# It's messenger Artificial intelligence Chat Bot 
+
+
+<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
 
 <p align="center">
-		<img align="center" alt="PNG" src="https://i.postimg.cc/Y2XShSm8/86678c65-896a-47fe-8256-3e8e76dd26d6.jpg"/>
-<h1 align='center'>
-	
-- [📝 **Note**](#-note)
-- [🚧 **Requirement**](#-requirement)
-- [📝 **Tutorial**](#-tutorial)
-- [🔔 **How to get notification when have new update?**](#-how-to-get-notification-when-have-new-update)
-- [🆙 **How to Update**](#-how-to-update)
-- [🛠️ **How to create new commands**](#️-how-to-create-new-commands)
-- [💭 **Support**](#-support)
-- [📚 **Support Languages in source code**](#-support-languages-in-source-code)
-- [📌 **Common Problems**](#-common-problems)
-- [❌ **DO NOT USE THE ORIGINAL UNDERGRADUATE VERSION**](#-do-not-use-the-original-undergraduate-version)
-- [📸 **Screenshots**](#-screenshots)
-- [✨ **Copyright (C)**](#-copyright-c)
-- [📜 **License**](#-license)
-
-<hr>
-
-## 📝 **Note**
-- This is a messenger chat bot using a personal account, using an [unofficial api](https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md) ([Origin here](https://github.com/Schmavery/facebook-chat-api)) and this may lead to facebook account being locked due to spam or other reasons. 
-- So, I recommend using a clone account (one that you're willing to throw away at any time)
+	<a href="https://nodejs.org/dist/v16.20.0">
+		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
+	</a>
+  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
+  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
+  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
+  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">a clone account (one that you're willing to throw away at any time)
 - ***I am not responsible for any problems that may arise from using this bot.***
 
 ## 🚧 **Requirement**
